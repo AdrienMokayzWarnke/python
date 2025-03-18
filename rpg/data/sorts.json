@@ -1,0 +1,103 @@
+{
+    "sorts" : [
+        {
+            "id" : 1,
+            "name" : "Frappe héroïque",
+            "cout_mana" : 0,
+            "cout_rage" : 10,
+            "degat" : 4,
+            "soin" : 0,
+            "cible" : "ennemie"
+        },
+        {
+            "id" : 2,
+            "name" : "Rage berserker",
+            "cout_mana" : 0,
+            "cout_rage" : -30,
+            "degat" : 0,
+            "soin" : 0,
+            "cible" : "soi-même"
+        },
+        {
+            "id" : 3,
+            "name" : "Boule de feu",
+            "cout_mana" : 10,
+            "cout_rage" : 0,
+            "degat" : 8,
+            "soin" : 0,
+            "cible" : "ennemie"
+        },
+        {
+            "id" : 4,
+            "name" : "Eclair de givre",
+            "cout_mana" : 5,
+            "cout_rage" : 0,
+            "degat" : 4,
+            "soin" : 0,
+            "cible" : "ennemie"
+        },
+        {
+            "id" : 5,
+            "name" : "Prière",
+            "cout_mana" : 5,
+            "cout_rage" : 0,
+            "degat" : 0,
+            "soin" : 10,
+            "cible" : "soi-même"
+        },
+        {
+            "id" : 6,
+            "name" : "Soin",
+            "cout_mana" : 6,
+            "cout_rage" : 0,
+            "degat" : 0,
+            "soin" : 0,
+            "cible" : "allié"
+        },
+        {
+            "id" : 7,
+            "name" : "Frappe-tempête",
+            "cout_mana" : 7,
+            "cout_rage" : 0,
+            "degat" : 7,
+            "soin" : 0,
+            "cible" : "ennemie"
+        },
+        {
+            "id" : 8,
+            "name" : "Fontaine mana",
+            "cout_mana" : -7,
+            "cout_rage" : 0,
+            "degat" : 0,
+            "soin" : 0,
+            "cible" : "allié"
+        },
+        {
+            "id" : 9,
+            "name" : "Attaque pernicieuse",
+            "cout_mana" : 0,
+            "cout_rage" : 0,
+            "degat" : 6,
+            "soin" : 0,
+            "cible" : "ennemie"
+        },
+        {
+            "id" : 10,
+            "name" : "Morsure sanglante",
+            "cout_mana" : 0,
+            "cout_rage" : 0,
+            "degat" : 9,
+            "soin" : 0,
+            "cible" : "ennemie"
+        },
+        {
+            "id" : 11,
+            "name" : "Griffure féroce",
+            "cout_mana" : 0,
+            "cout_rage" : 0,
+            "degat" : 15,
+            "soin" : 0,
+            "cible" : "ennemie"
+        }
+    ]
+}

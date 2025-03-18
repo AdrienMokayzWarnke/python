@@ -1,0 +1,19 @@
+{
+    "lieux" : [
+        {
+            "nom" : "Antre des gobelins",
+            "description" : "Lieu sombre où vivent les méchants gobelins !",
+            "ennemies": [1, 1, 1]
+        },
+        {
+            "nom" : "Jungle de strongleronce",
+            "description" : "Belle jungle luxuriante et sauvage.",
+            "ennemies": [2, 2]
+        },
+        {
+            "nom" : "Tanière de la harpie",
+            "description" : "Nid perché sur une falaise.",
+            "ennemies": [3]
+        }
+    ]
+}

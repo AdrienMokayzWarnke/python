@@ -1,0 +1,37 @@
+{
+    "ennemies": [
+        {
+            "id": 1,
+            "name": "gobelin",
+            "hp": 10,
+            "mana": 0,
+            "rage": 0,
+            "sorts": [
+                9
+            ],
+            "description": "bête verte crasseuse."
+        },
+        {
+            "id": 2,
+            "name": "tigre",
+            "hp": 15,
+            "mana": 0,
+            "rage": 0,
+            "sorts": [
+                10
+            ],
+            "description": "bête farouche de la jungle."
+        },
+        {
+            "id": 3,
+            "name": "harpie",
+            "hp": 26,
+            "mana": 0,
+            "rage": 0,
+            "sorts": [
+                11
+            ],
+            "description": "créature redoutable mi-femme mi-oiseau"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "classes": [
+        {
+            "name": "guerrier",
+            "hp": 25,
+            "mana": 0,
+            "rage": 0,
+            "sorts": [
+                1,
+                2
+            ],
+            "description": "Valeureux guerrier combattant au corps à corps."
+        },
+        {
+            "name": "mage",
+            "hp": 15,
+            "mana": 30,
+            "rage": 0,
+            "sorts": [
+                3,
+                4
+            ],
+            "description": "Sage maitrisant la magie pouvant lancer de puissants sorts."
+        },
+        {
+            "name": "prêtre",
+            "hp": 18,
+            "mana": 25,
+            "rage": 0,
+            "sorts": [
+                5,
+                6
+            ],
+            "description": "Sage maitrisant la lumière pouvant soigner ses alliés."
+        },
+        {
+            "name": "chaman",
+            "hp": 20,
+            "mana": 20,
+            "rage": 0,
+            "sorts": [
+                7,
+                8
+            ],
+            "description": "Guide spirituel pouvant communiquer avec les éléments."
+        }
+    ]
+}
