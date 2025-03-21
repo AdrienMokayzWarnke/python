@@ -59,6 +59,6 @@ def create_character(name, class_name):
         return Character(name, char_class)
     
 # Load classes and sorts from JSON files
-CLASSES: List[Classe] = load_classes('./data/classe.json')
-SORTS: List[Sort] = load_sorts('./data/sorts.json')
+CLASSES: List[Classe] = load_classes('data/classe.json')
+SORTS: List[Sort] = load_sorts('data/sorts.json')
 

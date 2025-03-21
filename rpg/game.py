@@ -1,4 +1,4 @@
 import character
 
 player_character = character.create_character('Aragorn', 'guerrier')
-print(character.SORTS)
+print(player_character.name)
